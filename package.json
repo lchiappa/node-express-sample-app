@@ -1,0 +1,19 @@
+{
+    "name": "node-express-sample-app",
+    "version": "1.0.0",
+    "description": "Node Express Sample App",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lchiappa/node-express-sample-app.git"
+    },
+    "author": "lchiappa",
+    "license": "MIT",
+    "homepage": "https://github.com/lchiappa/node-express-sample-app#readme",
+    "dependencies": {
+      "express": "^4.13.4"
+    }
+  }
