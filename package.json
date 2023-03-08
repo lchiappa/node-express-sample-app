@@ -4,16 +4,18 @@
     "description": "Node Express Sample App",
     "main": "app.js",
     "scripts": {
-      "start": "node app.js"
+        "start": "node app.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lchiappa/node-express-sample-app.git"
+        "type": "git",
+        "url": "git+https://github.com/lchiappa/node-express-sample-app.git"
     },
     "author": "lchiappa",
     "license": "MIT",
     "homepage": "https://github.com/lchiappa/node-express-sample-app#readme",
     "dependencies": {
-      "express": "^4.13.4"
+        "aws-sdk": "^2.1330.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.13.4"
     }
-  }
+}
